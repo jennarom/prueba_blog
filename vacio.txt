@@ -1,2 +1,4 @@
 clave secreta
 del archivo
+
+otros detalles
