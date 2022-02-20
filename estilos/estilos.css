@@ -13,6 +13,10 @@ body
     padding: 0.5em;
 }
 
+#footer{
+    color: blueviolet;
+}
+
 #container
 {
     width: 70%;
